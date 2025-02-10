@@ -1,0 +1,1 @@
+OWAS_CAT_DATA_PATH = r"data\action_category.csv"
